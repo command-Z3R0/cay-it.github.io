@@ -11,20 +11,18 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: AGILE
   weight: 3
 
-- name: Travis CI
+- name: Burpsuite
   weight: 1
 
-- name: Jenkins
+- name: Github
   weight: 1
 
 - name: Chrome DevTools
   weight: 2
 
-- name: npm
-  weight: 2
 
 - name: gulp
   weight: 4
@@ -32,5 +30,5 @@
 - name: VS Code
   weight: 3
 
-- name: Postman
+- name: Nmap
   weight: 4

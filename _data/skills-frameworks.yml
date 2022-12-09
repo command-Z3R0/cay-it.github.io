@@ -5,13 +5,13 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Osint
   weight: 5
 
-- name: AngularJS
+- name: OWASP
   weight: 3
 
-- name: React
+- name: ReactJS
   weight: 4
 
 - name: Node
@@ -26,8 +26,8 @@
 - name: Django
   weight: 1
 
-- name: Spring
+- name: Metalsploit
   weight: 2
 
-- name: Rails
+- name: Laravel
   weight: 4

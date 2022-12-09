@@ -13,21 +13,18 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Club-INFORMATIQUE 
+  descr: Notre objectif était de créer un club informatique qui puisse attirer l'attention de passionnés, partager des connaissances et s'amuser. Notre projet est allé si loin qu'il a retenu l'attention de plusieurs antennes radio. Vous trouverez ici un exemple.
+  demo: https://www.latriburadio.com/clubinfo/
   tags:
     - tag: Python
-    - tag: Django
+    - tag: SCRUM
+    - tag: AngularJS
+    - tag: C++
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: project Y
+  descr: Notre projet consistait à créer un accès à un bâtiment avec des cartes RFID et une page web avec login pour partager des informations entre collègues. Le tout connecté à une base de données contrôlée par un compte admin.
+  tags:
+    - tag: Python
+    - tag: PHP
+    - tag: SQL
